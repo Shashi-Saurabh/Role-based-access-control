@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.form-container {
+  margin-bottom: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input,
+select,
+button {
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  padding: 10px;
+}
+
+button:hover {
+  background-color: #45a049; /* Darker green */
+}
+
+.user-list,
+.role-list {
+  list-style-type: none;
+}
+
+.user-list li,
+.role-list li {
+  padding: 10px;
+}
