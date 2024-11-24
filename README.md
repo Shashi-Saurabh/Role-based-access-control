@@ -5,9 +5,10 @@ Ensure you have the following installed:
 
 ---
 
-## Getting Started
+### Getting Started
 
-### Step 1: Clone the Repository
+
+Step 1: Clone the Repository
 ```bash
 git clone <repository-url>
 
