@@ -7,9 +7,9 @@ Ensure you have the following installed:
 
 ### Getting Started
 
-
+```
 Step 1: Clone the Repository
-```bash
+bash
 git clone <repository-url>
 
 Step 2: Navigate to the Project Directory
